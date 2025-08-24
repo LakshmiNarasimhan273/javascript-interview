@@ -2,10 +2,8 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)]
 [![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)]  
-[![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue?logo=mongodb)]  
-[![Mentorship](https://img.shields.io/badge/Mentorship-Available-orange)](#)  
 
-Welcome to **JS-Interview**, my dedicated practice repository for **JavaScript, Node.js, and interview-focused coding concepts**.  
+> **Welcome to **JS-Interview**, my dedicated practice repository for **JavaScript, Node.js, and interview-focused coding concepts**.  
 This repo is built not only as my personal **knowledge vault** but also as a **resource for learners and mentees** I guide in their preparation journey.  
 
 ---
@@ -14,38 +12,7 @@ This repo is built not only as my personal **knowledge vault** but also as a **r
 
 The repository is organized in **feature-based folders** so learners can follow a **step-by-step path**:  
 
-JS-interview/
-│
-├── feat-1-oops_and_basics/
-│   ├── encapsulation.js
-│   ├── abstraction.js
-│   ├── inheritance.js
-│   ├── polymorphism.js
-│   └── prototype.js
-│
-├── feat-2-advance_js_concepts/
-│   ├── closures.js
-│   ├── execution-context.js
-│   ├── event-loop.js
-│   ├── deepCopy-vs-shallowCopy.js
-│   ├── higher-order-functions.js
-│   └── garbage-collection.js
-│
-├── feat-3-dsa/
-│   ├── arrays/
-│   ├── strings/
-│   ├── sets-maps/
-│   └── objects/
-│
-├── feat-4-nodejs_specific/
-│   ├── event-driven-architecture.js
-│   ├── streams-buffers.js
-│   ├── threads.js
-│   └── process-vs-thread.js
-│
-└── feat-5-projects/
-    └── otp-validator/
-
+![Folder Structure](folder_structure.png)
 
 ### 📂 **feat-5-projects**
 - **OTP Validator** mini-project (regex validation, async API simulation, error handling)  
