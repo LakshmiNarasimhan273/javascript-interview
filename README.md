@@ -1,7 +1,7 @@
 # 📘 JavaScript & Node.js Interview Prep – Practice Repository  
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)]
-[![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)]  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
 
 > **Welcome to **JS-Interview**, my dedicated practice repository for **JavaScript, Node.js, and interview-focused coding concepts**.  
 This repo is built not only as my personal **knowledge vault** but also as a **resource for learners and mentees** I guide in their preparation journey.  
